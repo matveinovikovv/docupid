@@ -1,0 +1,1 @@
+pred.empty = empty !== 'none';
